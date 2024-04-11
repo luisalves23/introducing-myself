@@ -1,0 +1,29 @@
+/* client/src/styles/styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 48px;
+  color: #333;
+}
+
+p {
+  font-size: 24px;
+  color: #666;
+  margin-top: 20px;
+}
+
+.emoji {
+  font-size: 36px;
+  margin-top: 20px;
+}
